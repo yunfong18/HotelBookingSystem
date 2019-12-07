@@ -11,4 +11,13 @@ The functionality of this website:
 </ul>
 <hr>
 <h3>Homepage of Hotel Booking System</h3>
-<img src="">
+<img src="Homepage.png">
+<br>
+<h3>Insert page</h3>
+<img src="insert.png>
+<br>
+<h3>Display page</h3>
+<img src="display.png>
+<br>
+<h3>Update page</h3>
+<img src="update.png>
