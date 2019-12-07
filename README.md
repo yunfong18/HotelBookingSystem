@@ -12,12 +12,12 @@ The functionality of this website:
 <hr>
 <h3>Homepage of Hotel Booking System</h3>
 <img src="Homepage.png">
-<br>
+
 <h3>Insert page</h3>
-<img src="insert.png>
-<br>
+<img src="insert.png">
+
 <h3>Display page</h3>
-<img src="display.png>
-<br>
+<img src="display.png">
+
 <h3>Update page</h3>
-<img src="update.png>
+<img src="update.png">
