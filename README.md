@@ -16,9 +16,6 @@ The functionality of this website:
 <h3>Insert page</h3>
 <img src="insert.png"  width=100% height:100%>
 
-<h3>Display page</h3>
-<img src="display.png" width=100% height:100%>
-
 <h3>Update page</h3>
 <img src="update.png" width=100% height:100%>
 
